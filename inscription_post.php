@@ -17,6 +17,6 @@ $reponse->execute(array(
     'email' => $_POST['email']
 ));
 
-header('Location: connexion.php')
+header('Location: connexion.php');
 
 ?>
