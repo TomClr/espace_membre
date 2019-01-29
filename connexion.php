@@ -18,7 +18,7 @@
                     echo '';
                 }
 
-                ?>">
+                ?>" required>
             </div>
             <div class="form_elt">
                 <label for="password">Entrez votre mot de passe : </label>
@@ -30,7 +30,7 @@
                     echo '';
                 }
                 
-                ?>">
+                ?>" required>
             </div>
             <div class="form_elt">
                 <label for="connexion_auto">Connexion automatique </label>

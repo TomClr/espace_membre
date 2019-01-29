@@ -11,5 +11,6 @@ session_start();
     </head>
     <body>
         <h1>Bienvenue dans l'espace membre <?php echo $_SESSION['pseudo'] ?> !</h1>
+        <p><a href="deconnexion.php">se déconnecter</a></p>
     </body>
 </html>

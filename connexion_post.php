@@ -45,13 +45,5 @@ if (!$resultat) {
     } else {
         echo 'Mauvais identifiant ou mot de passe';
     }
-    /* if ($isPasswordCorrect) {
-        session_start();
-        $_SESSION['id'] = $resultat['id'];
-        $_SESSION['pseudo'] = $pseudo;
-        header('location: index.php');
-    } else {
-        echo 'Mauvais identifiant ou mot de passe';
-    } */
 }
 ?>
