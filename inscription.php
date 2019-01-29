@@ -21,6 +21,10 @@
                 <div class="form_elt"> 
                     <label for="email">Renseignez votre adresse email : </label><input type="email" name="email" id="email">
                 </div>
+                <div class="form_elt">
+                    <input type="submit" value="Je crée mon compte">
+                </div>
+                
             </form>
         </div>
     </body>

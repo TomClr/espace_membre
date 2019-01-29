@@ -18,7 +18,7 @@ Vous pouvez retrouver le TP original sur OpenClassrooms via [ce lien](https://op
    - mot de passe (attention champ de type `password` pour cacher le mdp lors de la saisie)
    - confirmation du mot de passe
    - adresse email
-  
+  O
 Plusieurs vérifications :
     - Le pseudo demandé est-il disponible ? S'il est déja présent dans la BDD, il faudra alerter l'utilisateur et lui demandé de changer
     - Les deux mdp sont-ils identiques ?
