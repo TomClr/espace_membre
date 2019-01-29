@@ -1,0 +1,9 @@
+.form_elt{
+    margin-top:10px;
+}
+
+label {
+    display: block;
+    float: left;
+    width: 26%;
+}
